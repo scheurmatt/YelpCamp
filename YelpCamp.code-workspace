@@ -1,0 +1,24 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../GitBasics/MyFirstNovel"
+	},
+	{
+		"path": "../../GitBasics/Shopping"
+	},
+	{
+		"path": "../../GitBasics/Patronus"
+	},
+	{
+		"path": "../../GitBasics/Merging"
+	},
+	{
+		"path": "../../Frontend fejlesztő/Gyakorlás"
+	}
+],
+  "settings": {}
+}
+
