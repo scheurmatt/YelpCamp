@@ -1,7 +1,7 @@
 # YelpCamp
 YelpCamp is a web application developed as part of Colt Steele's web developer bootcamp 2023. It is built using the Node.js framework, along with Express for server-side routing and MongoDB for the database.
 
-**Technologies Used**
+:open_book: **Technologies Used**
 The following technologies and tools were used in the development of YelpCamp:
 
 HTML/Bootstrap: Used for creating the structure and styling of the web pages.
@@ -18,7 +18,7 @@ passport, passport-local, passport-local-mongoose: Used for user authentication 
 method-override: Used to override HTTP methods, enabling PUT and DELETE requests.
 connect-flash: Used for displaying flash messages to users.
 
-**Getting Started**
+:racing_car: **Getting Started**
 Create an .env file and add values to the following variables:
 
 CLOUDINARY_CLOUD_NAME=<Your Cloudinary cloud name>
@@ -47,7 +47,7 @@ or for hot reloading (recommended)
 
 $ nodemon app.js
 
-**Screenshots**
+:camera_flash: **Screenshots**
 ![screenshot1](https://github.com/scheurmatt/YelpCamp/assets/127687629/5dabec29-f737-4588-8ad8-c22992d82686)
 ![screenshot2](https://github.com/scheurmatt/YelpCamp/assets/127687629/218f7c19-acef-4487-b749-413b5507f031)
 ![screenshot0](https://github.com/scheurmatt/YelpCamp/assets/127687629/334cbdcc-f9d9-484f-92d1-366f8672b7af)
